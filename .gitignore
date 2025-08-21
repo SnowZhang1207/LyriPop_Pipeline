@@ -1,7 +1,21 @@
+# macOS
 .DS_Store
+
+# Python
 __pycache__/
 *.pyc
-*.ipynb_checkpoints/
-.env
+*.pyo
+*.pyd
+*.egg-info/
 .venv/
+.env
+.ipynb_checkpoints/
+
+# Node / web（若无可删除）
 node_modules/
+dist/
+build/
+
+# Data / logs（按需保留或删除）
+*.log
+*.tmp

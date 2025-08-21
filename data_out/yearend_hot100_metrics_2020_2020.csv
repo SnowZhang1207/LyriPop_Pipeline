@@ -1,0 +1,101 @@
+year,rank,title,artist,lyrics_raw,lyrics_url,lyrics_clean,lines,tokens,vader,fk_grade,ttr,repetition_ratio,compressibility,is_top5
+2020,1,Blinding Lights,The Weeknd,,,,0,0,0.0,0.0,0.0,0.0,0.0,True
+2020,2,Circles,Post Malone,,,,0,0,0.0,0.0,0.0,0.0,0.0,True
+2020,3,The Box,Roddy Ricch,,,,0,0,0.0,0.0,0.0,0.0,0.0,True
+2020,4,Don't Start Now,Dua Lipa,,,,0,0,0.0,0.0,0.0,0.0,0.0,True
+2020,5,Rockstar,DaBabyFeaturingRoddy Ricch,,,,0,0,0.0,0.0,0.0,0.0,0.0,True
+2020,6,Adore You,Harry Styles,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,7,Life Is Good,FutureFeaturingDrake,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,8,Memories,Maroon 5,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,9,The Bones,Maren Morris,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,10,Someone You Loved,Lewis Capaldi,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,11,Say So,Doja Cat,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,12,I Hope,Gabby BarrettFeaturing Charlie Puth,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,13,Whats Poppin,"Jack HarlowFeaturingDaBaby,Tory Lanez&Lil Wayne",,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,14,Dance Monkey,Tones And I,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,15,Savage,Megan Thee StallionFeaturing Beyonce,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,16,Roxanne,Arizona Zervas,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,17,Intentions,Justin BieberFeaturingQuavo,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,18,Everything I Wanted,Billie Eilish,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,19,Roses,Saint Jhn,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,20,Watermelon Sugar,Harry Styles,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,21,Before You Go,Lewis Capaldi,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,22,Falling,Trevor Daniel,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,23,"10,000 Hours",Dan + Shay&Justin Bieber,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,24,WAP,Cardi BFeaturingMegan Thee Stallion,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,25,Ballin',Mustard&Roddy Ricch,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,26,Hot Girl Bummer,Blackbear,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,27,Blueberry Faygo,Lil Mosey,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,28,Heartless,The Weeknd,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,29,BOP,DaBaby,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,30,Lose You To Love Me,Selena Gomez,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,31,Good As Hell,Lizzo,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,32,Toosie Slide,Drake,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,33,Break My Heart,Dua Lipa,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,34,Chasin' You,Morgan Wallen,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,35,Savage Love (Laxed - Siren Beat),Jawsh 685 xJason Derulo,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,36,No Guidance,Chris BrownFeaturingDrake,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,37,My Oh My,Camila CabelloFeaturingDaBaby,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,38,Dynamite,BTS,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,39,Go Crazy,Chris Brown&Young Thug,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,40,High Fashion,Roddy RicchFeaturingMustard,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,41,Laugh Now Cry Later,DrakeFeaturingLil Durk,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,42,Woah,Lil Baby,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,43,Death Bed,Powfu Featuringbeabadoobee,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,44,Senorita,Shawn Mendes&Camila Cabello,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,45,HIGHEST IN THE ROOM,Travis Scott,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,46,Bad Guy,Billie Eilish,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,47,Mood,24kGoldnFeaturingiann dior,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,48,Rain On Me,Lady Gaga&Ariana Grande,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,49,For The Night,Pop SmokeFeaturingLil Baby&DaBaby,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,50,RITMO (Bad Boys For Life),Black Eyed Peas XJ Balvin,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,51,Heart On Ice,Rod Wave,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,52,Nobody But You,Blake SheltonDuet WithGwen Stefani,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,53,Trampoline,SHAED,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,54,Come & Go,Juice WRLDx Marshmello,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,55,Truth Hurts,Lizzo,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,56,If The World Was Ending,JP SaxeFeaturingJulia Michaels,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,57,We Paid,Lil Baby&42 Dugg,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,58,Yummy,Justin Bieber,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,59,One Man Band,Old Dominion,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,60,Got What I Got,Jason Aldean,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,61,Sunday Best,Surfaces,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,62,Godzilla,EminemFeaturingJuice WRLD,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,63,Bandit,Juice WRLD&YoungBoy Never Broke Again,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,64,Party Girl,StaySolidRocky,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,65,Die From A Broken Heart,Maddie & Tae,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,66,Popstar,DJ KhaledFeaturingDrake,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,67,All I Want For Christmas Is You,Mariah Carey,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,68,One Of Them Girls,Lee Brice,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,69,Hard To Forget,Sam Hunt,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,70,One Margarita,Luke Bryan,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,71,Panini,Lil Nas X,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,72,Hot,Young ThugFeaturingGunna,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,73,I Hope You're Happy Now,Carly Pearce&Lee Brice,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,74,Emotionally Scarred,Lil Baby,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,75,Suicidal,YNW Melly&Juice WRLD,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,76,The Bigger Picture,Lil Baby,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,77,Only Human,Jonas Brothers,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,78,The Woo,Pop SmokeFeaturing50 Cent&Roddy Ricch,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,79,Sum 2 Prove,Lil Baby,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,80,Stuck With U,Ariana Grande&Justin Bieber,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,81,Mood Swings,Pop SmokeFeaturingLil Tjay,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,82,You Should Be Sad,Halsey,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,83,Dior,Pop Smoke,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,84,Supalonely,BENEE FeaturingGus Dapperton,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,85,Even Though I'm Leaving,Luke Combs,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,86,The Scotts,"THE SCOTTS,Travis Scott&Kid Cudi",,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,87,Juicy,Doja Cat&Tyga,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,88,Be Like That,Kane BrownWithSwae Lee&Khalid,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,89,Homesick,Kane Brown,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,90,Rags2Riches,Rod WaveFeaturing ATR Son Son,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,91,Bluebird,Miranda Lambert,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,92,Wishing Well,Juice WRLD,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,93,Does To Me,Luke CombsFeaturingEric Church,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,94,P*$$y Fairy (OTW),Jhene Aiko,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,95,ily,Surf Mesa Featuring Emilee,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,96,More Than My Hometown,Morgan Wallen,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,97,Lovin' On You,Luke Combs,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,98,Said Sum,Moneybagg Yo,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,99,Slide,H.E.R. FeaturingYG,,,,0,0,0.0,0.0,0.0,0.0,0.0,False
+2020,100,Walk Em Down,NLE ChoppaFeaturingRoddy Ricch,,,,0,0,0.0,0.0,0.0,0.0,0.0,False

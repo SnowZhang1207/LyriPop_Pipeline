@@ -1,0 +1,19 @@
+name: lyripop
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - pandas==2.2.2
+      - numpy==1.26.4
+      - billboard.py==7.0.0
+      - lyricsgenius==3.0.1
+      - python-dotenv==1.0.1
+      - requests==2.32.3
+      - beautifulsoup4==4.12.3
+      - rapidfuzz==3.9.1
+      - textstat==0.7.4
+      - vaderSentiment==3.3.2
+      - tqdm==4.66.4
+      - unidecode==1.3.8
